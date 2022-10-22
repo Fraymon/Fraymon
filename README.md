@@ -4,4 +4,4 @@
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning T-SQL & Power BI.
 - 💞️ I’m looking to become a great Data Analyst.
-- 📫 you can reach me out on fraymon0.24@gmail.com
+- 📫 you can reach me out on fraymon0.24@gmail.com / https://www.linkedin.com/feed/
